@@ -19,3 +19,8 @@ Photons: (https://cernbox.cern.ch/s/zUvpkKhXIp0MJ0g)
 ```bash
 git clone https://github.com/your-username/ParticleMassPrediction.git
 cd ParticleMassPrediction
+```
+## Contributing
+
+Contributions are welcome! If you find issues or improvements, feel free to submit a pull request.
+
